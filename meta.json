@@ -1,0 +1,13 @@
+{
+ "v": 1,
+ "kdf": {
+  "name": "PBKDF2-SHA256",
+  "iterations": 600000,
+  "salt": "Qyr7tgj7/FbOmDJwVFSZxQ=="
+ },
+ "check": "QyZhVBmnvBWJA7K3S+1tqdbSyl+TJp4BI9/XOhhYHmRxEivMdCfj2zzb5wwaSXZ6pL1jIjJvtgH7VpQ=",
+ "app": "app.enc?v=c8b0994e58bd",
+ "data": "data.enc?v=c5f3fa4d4b90",
+ "live": "live.enc",
+ "deployedAt": "2026-11-21T13:44:46.715Z"
+}
